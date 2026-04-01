@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-ai-sdk-yt-embeddings",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "AI SDK extension plugin for YouTube transcript vector embeddings with semantic search and RAG queries.",
   "keywords": [
     "strapi",
